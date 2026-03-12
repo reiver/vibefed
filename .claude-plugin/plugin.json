@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Provides tools for developing Fediverse and Social Web software.",
   "skills": [
+    "skills/detect-nodeinfo",
     "skills/detect-webfinger"
   ]
 }
