@@ -6,6 +6,15 @@ The genesis of **vibefed** is this poll:
 
 * https://mastodon.social/@reiver/115945516148259016
 
+## Installig
+
+To install **vibefed** from the Claude terminal application run:
+
+```
+/plugin marketplace add reiver/vibefed
+/plugin install vibefed@vibefed
+```
+
 ## Author
 
 **vibefed** was created by [Charles Iliya Krempeaux](http://reiver.link)

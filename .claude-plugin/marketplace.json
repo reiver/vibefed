@@ -1,0 +1,11 @@
+{
+  "name": "vibefed",
+  "description": "Fediverse protocol knowledge and detection skills for Claude Code.",
+  "plugins": [
+    {
+      "name": "vibefed",
+      "description": "Fediverse protocol detection and ActivityPub knowledge. Detects WebFinger, NodeInfo, and understands HTTP signatures, hashtags, follows, and likes at the ActivityPub level.",
+      "source": "./"
+    }
+  ]
+}

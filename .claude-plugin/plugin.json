@@ -1,7 +1,7 @@
 {
   "name": "vibefed",
   "version": "0.0.1",
-  "description": "Provides tools for developing Fediverse and Social Web software.",
+  "description": "Provides tools for developing and testing Fediverse and Social Web software.",
   "skills": [
     "skills/detect-nodeinfo",
     "skills/detect-webfinger",
