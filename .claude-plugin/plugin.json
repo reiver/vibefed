@@ -5,6 +5,7 @@
   "skills": [
     "skills/detect-nodeinfo",
     "skills/detect-webfinger",
+    "skills/kb-fediverse-following",
     "skills/kb-fediverse-hashtags"
   ]
 }
