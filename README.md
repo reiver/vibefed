@@ -5,3 +5,7 @@
 The genesis of **vibefed** is this poll:
 
 * https://mastodon.social/@reiver/115945516148259016
+
+## Author
+
+**vibefed** was created by [Charles Iliya Krempeaux](http://reiver.link)
