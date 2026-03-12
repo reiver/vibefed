@@ -16,22 +16,46 @@ Helps you detect, implement, and debug Fediverse federation in your codebase.
 | `kb-fediverse-http-signatures` | Background | HTTP signature construction, verification, keyId resolution, and 18 interoperability quirks |
 | `kb-fediverse-liking`          | Background | Like/Undo{Like}, the `likes`/`liked` collections, emoji reactions (EmojiReact vs Misskey), stale counts |
 
-**Active skills** are invocable as slash commands. **Background skills** load automatically when Claude detects the topic is relevant — no invocation needed.
+**Active skills** are invocable as slash commands.
+**Background skills** load automatically when Claude detects the topic is relevant — no invocation needed.
+
+## Installation (Claude Code)
+
+Here are the steps to install **vibefed** into Claude Code:
+
+### Step 1: Add Marketplace
+
+Either run the following from inside a session in the Claude Code terminal application:
+
+```
+/plugin marketplace add reiver/vibefed
+```
+
+Or alternatively, from your terminal shell run:
+
+```bash
+claude plugin marketplace add reiver/vibefed
+```
+
+### Step 2: Install The Plugin
+
+Either run the following from inside a session in the Claude Code terminal application:
+
+```
+/plugin install vibefed@vibefed
+```
+
+Or alternatively, from your terminal shell run:
+
+```bash
+claude plugin install vibefed@vibefed
+```
 
 ## History
 
 The genesis of **vibefed** is this poll:
 
 * https://mastodon.social/@reiver/115945516148259016
-
-## Installing
-
-To install **vibefed** from the Claude terminal application run:
-
-```
-/plugin marketplace add reiver/vibefed
-/plugin install vibefed@vibefed
-```
 
 ## Author
 
