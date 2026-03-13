@@ -40,6 +40,13 @@ Here is what is included in **vibefed**:
 | `kb-fediverse-liking`          | Background | Like/Undo{Like}, the `likes`/`liked` collections, emoji reactions (EmojiReact vs Misskey), stale counts |
 | `kb-fediverse-relays`          | Background | Relay subscription handshake, Mastodon vs LitePub protocols, Announce wrapping, relay software, topic-based relays |
 
+### Software Knowledge (What is Included)
+
+| Skill (Software Knowledge)     | Type       | Description |
+|--------------------------------|------------|-------------|
+| `kb-pixelfed`                  | Background | Pixelfed ActivityPub implementation, extensions (capabilities, commentsEnabled, Stories, blurhash), Mastodon API compat, federation quirks |
+
+
 ## Installation (Claude Code)
 
 Here are the steps to install **vibefed** into Claude Code:
