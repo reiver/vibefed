@@ -2,22 +2,9 @@
   "name": "vibefed",
   "version": "0.0.1",
   "description": "Provides tools for developing and testing Fediverse and Social Web software.",
-  "skills": [
-    "skills/detect-nodeinfo",
-    "skills/detect-webfinger",
-    "skills/kb-fediverse-activity-intents",
-    "skills/kb-fediverse-following",
-    "skills/kb-fediverse-group-federation",
-    "skills/kb-fediverse-hashtags",
-    "skills/kb-fediverse-http-signatures",
-    "skills/kb-fediverse-json-ld",
-    "skills/kb-fediverse-liking",
-    "skills/kb-fediverse-long-form-text",
-    "skills/kb-fediverse-nodeinfo-extensions",
-    "skills/kb-fediverse-openwebauth",
-    "skills/kb-fediverse-portable-objects",
-    "skills/kb-fediverse-relays",
-    "skills/kb-fediverse-webfinger-discovery",
-    "skills/kb-pixelfed"
-  ]
+  "author": {
+    "name": "Charles Iliya Krempeaux"
+  },
+  "skills": "./skills/",
+  "keywords": ["vibefed", "activitypub", "activitystreams", "fedidev", "fediverse", "nodeinfo", "socialweb", "webfinger"]
 }
