@@ -67,6 +67,7 @@ Here is what is included in **vibefed**:
 | `kb-friendica`                 | Background | Friendica multi-protocol bridge (ActivityPub + DFRN + Diaspora), DFRN protocol details, addon/plugin system, privacy ACLs, 200K-char posts, hub-and-spoke DB schema, Mastodon API compat, Bluesky/Tumblr/email connectors, Hubzilla lineage |
 | `kb-lemmy`                     | Background | Lemmy Community as Group actor, Announce relay, Post as Page, Comment as Note, Like/Dislike voting, moderation activities, JSON-LD context, strict parsing, Threadiverse ecosystem |
 | `kb-loops`                     | Background | Loops short-form video platform, Note objects with video attachments (not Video type), graph-walking comment validator, For You feed, duets, PeerTube comparison, Pixelfed lineage |
+| `kb-misskey`                   | Background | Misskey Japanese-origin microblogging platform, ActivityPub extensions (`_misskey_reaction` emoji reactions, `_misskey_quote` quotes, `isCat`), MFM markup language, Drive file management, Antennas, Deck UI, Note visibility levels, extensive fork ecosystem (Sharkey, Firefish, Iceshrimp), Mastodon comparison |
 | `kb-peertube`                  | Background | PeerTube two-tier actor model (Person/Group channels), Video object type, CacheFile redundancy, Dislike activity, live streaming, P2P delivery, FEP-5624 comment approval |
 | `kb-pixelfed`                  | Background | Pixelfed ActivityPub implementation, extensions (capabilities, commentsEnabled, Stories, blurhash), Mastodon API compat, federation quirks |
 
