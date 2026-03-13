@@ -14,6 +14,7 @@
     "skills/kb-fediverse-long-form-text",
     "skills/kb-fediverse-portable-objects",
     "skills/kb-fediverse-relays",
+    "skills/kb-fediverse-webfinger-discovery",
     "skills/kb-pixelfed"
   ]
 }
