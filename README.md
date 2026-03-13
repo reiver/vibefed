@@ -69,6 +69,7 @@ Here is what is included in **vibefed**:
 | `kb-loops`                     | Background | Loops short-form video platform, Note objects with video attachments (not Video type), graph-walking comment validator, For You feed, duets, PeerTube comparison, Pixelfed lineage |
 | `kb-misskey`                   | Background | Misskey Japanese-origin microblogging platform, ActivityPub extensions (`_misskey_reaction` emoji reactions, `_misskey_quote` quotes, `isCat`), MFM markup language, Drive file management, Antennas, Deck UI, Note visibility levels, extensive fork ecosystem (Sharkey, Firefish, Iceshrimp), Mastodon comparison |
 | `kb-peertube`                  | Background | PeerTube two-tier actor model (Person/Group channels), Video object type, CacheFile redundancy, Dislike activity, live streaming, P2P delivery, FEP-5624 comment approval |
+| `kb-piefed`                    | Background | PieFed Python/Flask Threadiverse platform, Feed actor (FEP-1d80), private/anonymous voting via proxy profiles, EmojiReact/ChooseAnswer/PollVote/Event activities, 95% Lemmy-compatible API, trust & safety (3K+ domain blocklist, AI labeling, attitude tracking), cross-post deduplication |
 | `kb-pixelfed`                  | Background | Pixelfed ActivityPub implementation, extensions (capabilities, commentsEnabled, Stories, blurhash), Mastodon API compat, federation quirks |
 
 
