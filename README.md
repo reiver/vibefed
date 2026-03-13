@@ -52,6 +52,7 @@ Here is what is included in **vibefed**:
 | `kb-fediverse-json-ld`         | Background | `@id` vs `id` aliasing, value form variability, `@context` handling, expansion/compaction, defensive parsing, content types |
 | `kb-fediverse-liking`          | Background | Like/Undo{Like}, the `likes`/`liked` collections, emoji reactions (EmojiReact vs Misskey), stale counts |
 | `kb-fediverse-long-form-text`  | Background | FEP-b2b8 Article type for blog posts/articles, Article vs Note, preview fallback, summary guidance, allowed HTML, interop matrix |
+| `kb-fediverse-nodeinfo-extensions` | Background | FEP-6481 (WITHDRAWN) extension discovery via NodeInfo, FEP-9fde successor, capability discovery landscape, custom types debate |
 | `kb-fediverse-openwebauth`    | Background | FEP-61cf OpenWebAuth federated SSO, 5-step token handshake, Magic Auth history, authentication vs authorization, cross-server identity |
 | `kb-fediverse-portable-objects` | Background | FEP-ef61 server-independent identifiers, ap:// URI scheme with DIDs, gateways, integrity proofs (FEP-8b32), nomadic identity |
 | `kb-fediverse-relays`          | Background | Relay subscription handshake, Mastodon vs LitePub protocols, Announce wrapping, relay software, topic-based relays |
