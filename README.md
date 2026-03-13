@@ -64,6 +64,7 @@ Here is what is included in **vibefed**:
 
 | Skill (Software Knowledge)     | Type       | Description |
 |--------------------------------|------------|-------------|
+| `kb-lemmy`                     | Background | Lemmy Community as Group actor, Announce relay, Post as Page, Comment as Note, Like/Dislike voting, moderation activities, JSON-LD context, strict parsing, Threadiverse ecosystem |
 | `kb-peertube`                  | Background | PeerTube two-tier actor model (Person/Group channels), Video object type, CacheFile redundancy, Dislike activity, live streaming, P2P delivery, FEP-5624 comment approval |
 | `kb-pixelfed`                  | Background | Pixelfed ActivityPub implementation, extensions (capabilities, commentsEnabled, Stories, blurhash), Mastodon API compat, federation quirks |
 
