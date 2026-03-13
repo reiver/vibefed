@@ -44,6 +44,7 @@ Here is what is included in **vibefed**:
 
 | Skill (Background Knowledge)   | Type       | Description |
 |--------------------------------|------------|-------------|
+| `kb-fediverse-actor-statuses`  | Background | FEP-82f6 Actor statuses, short non-interactable profile text, ActorStatus type, endTime expiration, attachment metadata, Remove vs Delete, status history |
 | `kb-fediverse-activity-intents` | Background | FEP-3b86 Activity Intents, WebFinger URL templates for cross-server Follow/Like/Announce/Create, oStatus history, workflow callbacks, security |
 | `kb-fediverse-federation-md`   | Background | FEP-67ff FEDERATION.md convention, documenting federation behavior, suggested template, DOAP companion (FEP-c893), 40+ implementations |
 | `kb-fediverse-following`       | Background | Follow/Accept/Reject/Undo flow, locked accounts, shared inbox, account migration |
