@@ -21,7 +21,7 @@ Here is what is included in **vibefed**:
 **Active skills** are invocable as slash commands.
 **Background skills** load automatically when Claude detects the topic is relevant — no invocation needed.
 
-### Dual Technical Knowledge + SlashCommans (What is Included)
+### Dual Technical Knowledge + SlashCommands (What is Included)
 
 
 | Skill              | Type   | Description |
