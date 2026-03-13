@@ -5,14 +5,31 @@
 Includes knowedge about ActivityPub and other Fediverse protocol.
 Helps you detect, implement, and debug Fediverse federation in your codebase.
 
+## Quick Install
+
+If you just want to install **vibefed** right now, run the following 2 commands from inside the Claude Code terminal application:
+
+```
+/plugin marketplace add reiver/vibefed
+/plugin install vibefed@vibefed
+```
+
 ## What Is Included
 
+Here is what is included in **vibefed**:
 
-| Skill (Also a SlashCommand)    | Type       | Description |
-|--------------------------------|------------|-------------|
-| `detect-webfinger`             | Active     | Detects WebFinger (`/.well-known/webfinger`) implementation in a codebase |
-| `detect-nodeinfo`              | Active     | Detects NodeInfo (`/.well-known/nodeinfo`) implementation in a codebase |
+**Active skills** are invocable as slash commands.
+**Background skills** load automatically when Claude detects the topic is relevant — no invocation needed.
 
+### Dual Technical Knowledge + SlashCommans (What is Included)
+
+
+| Skill              | Type   | Description |
+|--------------------|--------|-------------|
+| `detect-webfinger` | Active | Detects WebFinger (`/.well-known/webfinger`) implementation in a codebase |
+| `detect-nodeinfo`  | Active | Detects NodeInfo (`/.well-known/nodeinfo`) implementation in a codebase |
+
+### Technical Knowledge (What is Included)
 
 | Skill (Background Knowledge)   | Type       | Description |
 |--------------------------------|------------|-------------|
@@ -20,9 +37,7 @@ Helps you detect, implement, and debug Fediverse federation in your codebase.
 | `kb-fediverse-hashtags`        | Background | ActivityPub hashtag representation, `@context` patterns, federation quirks |
 | `kb-fediverse-http-signatures` | Background | HTTP signature construction, verification, keyId resolution, and 18 interoperability quirks |
 | `kb-fediverse-liking`          | Background | Like/Undo{Like}, the `likes`/`liked` collections, emoji reactions (EmojiReact vs Misskey), stale counts |
-
-**Active skills** are invocable as slash commands.
-**Background skills** load automatically when Claude detects the topic is relevant — no invocation needed.
+| `kb-fediverse-relays`          | Background | Relay subscription handshake, Mastodon vs LitePub protocols, Announce wrapping, relay software, topic-based relays |
 
 ## Installation (Claude Code)
 
