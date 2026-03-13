@@ -1,6 +1,9 @@
 {
   "name": "vibefed",
   "description": "Fediverse protocol knowledge and detection skills for Claude Code.",
+  "owner": {
+    "name": "Charles Iliya Krempeaux"
+  },
   "plugins": [
     {
       "name": "vibefed",
