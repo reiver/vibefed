@@ -45,6 +45,7 @@ Here is what is included in **vibefed**:
 | Skill (Background Knowledge)   | Type       | Description |
 |--------------------------------|------------|-------------|
 | `kb-fediverse-following`       | Background | Follow/Accept/Reject/Undo flow, locked accounts, shared inbox, account migration |
+| `kb-fediverse-group-federation` | Background | FEP-1b12 Group actors, audience property, Announce wrapping, moderation, Announce(Activity) vs Announce(Object), FEP-400e comparison |
 | `kb-fediverse-hashtags`        | Background | ActivityPub hashtag representation, `@context` patterns, federation quirks |
 | `kb-fediverse-http-signatures` | Background | HTTP signature construction, verification, keyId resolution, and 18 interoperability quirks |
 | `kb-fediverse-json-ld`         | Background | `@id` vs `id` aliasing, value form variability, `@context` handling, expansion/compaction, defensive parsing, content types |
