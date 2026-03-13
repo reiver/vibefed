@@ -26,8 +26,8 @@ Here is what is included in **vibefed**:
 
 | Skill              | Type   | Description |
 |--------------------|--------|-------------|
-| `detect-webfinger` | Active | Detects WebFinger (`/.well-known/webfinger`) implementation in a codebase |
 | `detect-nodeinfo`  | Active | Detects NodeInfo (`/.well-known/nodeinfo`) implementation in a codebase |
+| `detect-webfinger` | Active | Detects WebFinger (`/.well-known/webfinger`) implementation in a codebase |
 
 ### Technical Knowledge (What is Included)
 
