@@ -38,6 +38,7 @@ Here is what is included in **vibefed**:
 | `kb-fediverse-http-signatures` | Background | HTTP signature construction, verification, keyId resolution, and 18 interoperability quirks |
 | `kb-fediverse-liking`          | Background | Like/Undo{Like}, the `likes`/`liked` collections, emoji reactions (EmojiReact vs Misskey), stale counts |
 | `kb-fediverse-relays`          | Background | Relay subscription handshake, Mastodon vs LitePub protocols, Announce wrapping, relay software, topic-based relays |
+| `kb-fediverse-json-ld`         | Background | `@id` vs `id` aliasing, value form variability, `@context` handling, expansion/compaction, defensive parsing, content types |
 
 ## Installation (Claude Code)
 
