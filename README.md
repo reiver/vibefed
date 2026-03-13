@@ -14,6 +14,17 @@ If you just want to install **vibefed** right now, run the following 2 commands 
 /plugin install vibefed@vibefed
 ```
 
+## Examples
+
+You can use **vibefed** by prompting the LLM coding tool about some topic covered by this plugin.
+For example:
+
+> What do I need to do to make Fediverse/ActivityPub emoji reactions work in the source-code of this Fediverse software?
+
+Or:
+
+> Does this software implement nodeinfo? And, if it does, is it doing it correctly?
+
 ## What Is Included
 
 Here is what is included in **vibefed**:
