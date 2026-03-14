@@ -74,6 +74,7 @@ Here is what is included in **vibefed**:
 | `kb-peertube`                  | Background | PeerTube two-tier actor model (Person/Group channels), Video object type, CacheFile redundancy, Dislike activity, live streaming, P2P delivery, FEP-5624 comment approval |
 | `kb-piefed`                    | Background | PieFed Python/Flask Threadiverse platform, Feed actor (FEP-1d80), private/anonymous voting via proxy profiles, EmojiReact/ChooseAnswer/PollVote/Event activities, 95% Lemmy-compatible API, trust & safety (3K+ domain blocklist, AI labeling, attitude tracking), cross-post deduplication |
 | `kb-pixelfed`                  | Background | Pixelfed ActivityPub implementation, extensions (capabilities, commentsEnabled, Stories, blurhash), Mastodon API compat, federation quirks |
+| `kb-writefreely`               | Background | WriteFreely open-source federated blogging platform (Go, AGPL-3.0), write-only/broadcast federation model, blogs as Person actors, Article vs Note object type distinction (double-line break heuristic), Musing Studio ecosystem (Write.as, Snap.as), no incoming comments/replies, RESTful API, Plume/Ghost comparison |
 
 
 ## Installation (Claude Code)
