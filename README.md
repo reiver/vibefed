@@ -2,7 +2,7 @@
 
 **vibefed** is a plugin for LLM coding tools to help create Fediverse and Social Web software.
 
-Includes knowedge about ActivityPub and other Fediverse protocol.
+Includes knowledge about ActivityPub and other Fediverse protocols.
 Helps you detect, implement, and debug Fediverse federation in your codebase.
 
 ## Quick Install
